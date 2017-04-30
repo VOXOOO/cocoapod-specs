@@ -5,14 +5,14 @@ Pod::Spec.new do |s|
 	s.description           = "voxooo With Opus."
 	s.homepage              = "http://www.vox.ooo"
 
-	s.license      = { 
-   				 :type => "Commercial", 
-    				 :text => "Copyright © 2011-2017 voxooo, Inc. All rights reserved."
-			}
+	s.license      		= { 
+   				 	:type => "Commercial", 
+    				 	:text => "Copyright © 2011-2017 voxooo, Inc. All rights reserved."
+				  }
 	s.author                = { "Volkan UGUR" => "volkanugr@gmail.com" }
 
 	
-	s.source       = { :http    => "https://dl.dropbox.com/s/lkgpserdjdgqftx/voxooo_voice.tar.bz2"}
+	s.source       		= { :http => "https://dl.dropbox.com/s/lkgpserdjdgqftx/voxooo_voice.tar.bz2" }
 
 	s.platform              = :ios, "9.0"
 	s.requires_arc          = false
