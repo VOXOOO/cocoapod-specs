@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
 	s.name                  = "voxooo_voice"
 	s.version               = "1.0.0"
-	s.summary               = "voxooo voice helper for iOS"
-	s.description           = "voxooo With Opus."
+	s.summary               = "voxooo VoIP"
+	s.description           = "voxooo makes it easy to embed VoIP directly into your iOS apps."
 	s.homepage              = "http://www.vox.ooo"
 
 	s.license      		= { 
